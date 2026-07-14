@@ -35,6 +35,6 @@ Order statuses such as cancelled and returned orders impacted overall performanc
 Sales trends varied across different periods.
 Customer purchases were distributed across multiple payment methods.
 # Files Included
--<a href =" https://github.com/datawithtee/Decodelab-Sales-eda-excel/blob/main/Dataset%20for%20Data%20Analytics%20(1).xlsx">Raw dataset </a>.
+-<a href = "https://github.com/datawithtee/Decodelab-Sales-eda-excel/blob/main/Dataset%20for%20Data%20Analytics%20(1).xlsx">Raw dataset </a>.
 -<a href = "https://github.com/datawithtee/Decodelab-Sales-eda-excel/blob/main/Project%20DECODELAB.xlsx">Excel workbook </a>.
 
