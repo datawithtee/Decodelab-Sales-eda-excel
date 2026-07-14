@@ -1,4 +1,4 @@
-# Decodelab-Sales-eda-excel
+# Decodelab-Sales-cleaning-and-EDA-excel
 Exploratory Data Analysis (EDA) of a sales dataset using Microsoft Excel. The project includes data cleaning, pivot tables, KPI analysis, and sales trend visualization.
 # Overview
 This project focuses on performing Exploratory Data Analysis (EDA) on a sales dataset using Microsoft Excel. The analysis aims to uncover sales trends, evaluate product performance, and generate actionable business insights through data cleaning, pivot tables, and KPI calculations.
@@ -35,7 +35,6 @@ Order statuses such as cancelled and returned orders impacted overall performanc
 Sales trends varied across different periods.
 Customer purchases were distributed across multiple payment methods.
 # Files Included
-sales.dataset.csv – Raw dataset.
-Sales_EDA_Excel.xlsx – Excel workbook containing the analysis.
-README.md – Project documentation.
-screenshots/ – Visualizations and pivot table outputs.
+-<a href =" ">Raw dataset </a>.
+-<a href =" ">Excel workbook </a>.
+-<a href =" ">Visualizations and pivot table outputs </a>.
